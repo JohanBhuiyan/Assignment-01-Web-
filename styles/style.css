@@ -225,4 +225,57 @@ main{
 .focus-section img{
     border-radius: 48px;
 }
+
+/* Contact Section */
+.contact-form-section{
+    display: flex;
+    gap: 115px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 71px;
+    padding-bottom: 71px;
+}
+.contact-form-section{
+    margin-bottom: 14px;
+}
+.contact-heading{
+    font-size: 97px;
+    font-weight: bold;
+}
+
+
+input[type="text"], input[type="email"]{
+    display: block;
+    width: 450px;
+    height: 70px;
+    margin-bottom: 19px;
+    border: 1px solid rgba(214, 221, 237, 1);
+    border-radius: 10px;
+    padding: 20px 32px;
+}
+
+textarea{
+    display: block;
+    margin-bottom: 19px;
+    width: 450px;
+    height:135px;
+    padding: 20px 32px;
+    border: 1px solid rgba(214, 221, 237, 1);
+    border-radius: 10px;
+    resize: none;
+}
+input[type="submit"]{
+    display: block;
+    /* width: 100%; */
+    width: 100%;
+    padding: 19px 201px;
+    font-size: 16px;
+    font-weight: bold;
+}
+label{
+    display: inline-block;
+    margin-bottom: 10px;
+
+}
+
 /* Footer */
