@@ -201,4 +201,28 @@ main{
     margin-bottom: 0px;
 }
 
+/* Focus Section */
+.focus-section{
+    margin-bottom: 92.23px;
+    background-color: white;
+    padding: 71px 150px;
+    border-radius: 14px;
+    text-align: center;
+}
+.focus-section h4{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.focus-section p{
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.focus-section button{
+    font-size: 16px;
+    margin-bottom: 20px;
+    font-weight: lighter;
+}
+.focus-section img{
+    border-radius: 48px;
+}
 /* Footer */
